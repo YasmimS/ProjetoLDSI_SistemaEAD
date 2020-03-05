@@ -7,3 +7,12 @@ D:\_CARLOS\_PUC_Leila\2020\ProjetoMVC\1-projeto-base\PUC.LDSI.Identity\obj\Debug
 D:\_CARLOS\_PUC_Leila\2020\ProjetoMVC\1-projeto-base\PUC.LDSI.Identity\obj\Debug\netstandard2.0\PUC.LDSI.Identity.AssemblyInfo.cs
 D:\_CARLOS\_PUC_Leila\2020\ProjetoMVC\1-projeto-base\PUC.LDSI.Identity\obj\Debug\netstandard2.0\PUC.LDSI.Identity.dll
 D:\_CARLOS\_PUC_Leila\2020\ProjetoMVC\1-projeto-base\PUC.LDSI.Identity\obj\Debug\netstandard2.0\PUC.LDSI.Identity.pdb
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.Identity\bin\Debug\netstandard2.0\PUC.LDSI.Identity.deps.json
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.Identity\bin\Debug\netstandard2.0\PUC.LDSI.Identity.dll
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.Identity\bin\Debug\netstandard2.0\PUC.LDSI.Identity.pdb
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.Identity\obj\Debug\netstandard2.0\PUC.LDSI.Identity.csprojAssemblyReference.cache
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.Identity\obj\Debug\netstandard2.0\PUC.LDSI.Identity.csproj.CoreCompileInputs.cache
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.Identity\obj\Debug\netstandard2.0\PUC.LDSI.Identity.AssemblyInfoInputs.cache
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.Identity\obj\Debug\netstandard2.0\PUC.LDSI.Identity.AssemblyInfo.cs
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.Identity\obj\Debug\netstandard2.0\PUC.LDSI.Identity.dll
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.Identity\obj\Debug\netstandard2.0\PUC.LDSI.Identity.pdb

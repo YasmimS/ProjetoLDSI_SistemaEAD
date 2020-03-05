@@ -10,3 +10,15 @@ D:\_CARLOS\_PUC_Leila\2020\ProjetoMVC\1-projeto-base\PUC.LDSI.DataBase\obj\Debug
 D:\_CARLOS\_PUC_Leila\2020\ProjetoMVC\1-projeto-base\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.csproj.CopyComplete
 D:\_CARLOS\_PUC_Leila\2020\ProjetoMVC\1-projeto-base\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.dll
 D:\_CARLOS\_PUC_Leila\2020\ProjetoMVC\1-projeto-base\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.pdb
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.DataBase.deps.json
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.DataBase.dll
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.DataBase.pdb
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.Domain.dll
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.Domain.pdb
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.csprojAssemblyReference.cache
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.AssemblyInfoInputs.cache
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.AssemblyInfo.cs
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.csproj.CopyComplete
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.dll
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.pdb

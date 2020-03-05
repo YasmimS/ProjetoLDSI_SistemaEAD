@@ -179,27 +179,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Carlos\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\Yasmim Sancha\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_CARLOS\\_PUC_Leila\\2020\\ProjetoMVC\\1-projeto-base\\PUC.LDSI.Domain\\PUC.LDSI.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Yasmim Sancha\\source\\repos\\1-projeto-base\\PUC.LDSI.Domain\\PUC.LDSI.Domain.csproj",
       "projectName": "PUC.LDSI.Domain",
-      "projectPath": "D:\\_CARLOS\\_PUC_Leila\\2020\\ProjetoMVC\\1-projeto-base\\PUC.LDSI.Domain\\PUC.LDSI.Domain.csproj",
-      "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-      "outputPath": "D:\\_CARLOS\\_PUC_Leila\\2020\\ProjetoMVC\\1-projeto-base\\PUC.LDSI.Domain\\obj\\",
+      "projectPath": "C:\\Users\\Yasmim Sancha\\source\\repos\\1-projeto-base\\PUC.LDSI.Domain\\PUC.LDSI.Domain.csproj",
+      "packagesPath": "C:\\Users\\Yasmim Sancha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Yasmim Sancha\\source\\repos\\1-projeto-base\\PUC.LDSI.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Yasmim Sancha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

@@ -7,3 +7,12 @@ D:\_CARLOS\_PUC_Leila\2020\ProjetoMVC\1-projeto-base\PUC.LDSI.Domain\obj\Debug\n
 D:\_CARLOS\_PUC_Leila\2020\ProjetoMVC\1-projeto-base\PUC.LDSI.Domain\obj\Debug\netstandard2.0\PUC.LDSI.Domain.AssemblyInfo.cs
 D:\_CARLOS\_PUC_Leila\2020\ProjetoMVC\1-projeto-base\PUC.LDSI.Domain\obj\Debug\netstandard2.0\PUC.LDSI.Domain.dll
 D:\_CARLOS\_PUC_Leila\2020\ProjetoMVC\1-projeto-base\PUC.LDSI.Domain\obj\Debug\netstandard2.0\PUC.LDSI.Domain.pdb
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.Domain\bin\Debug\netstandard2.0\PUC.LDSI.Domain.deps.json
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.Domain\bin\Debug\netstandard2.0\PUC.LDSI.Domain.dll
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.Domain\bin\Debug\netstandard2.0\PUC.LDSI.Domain.pdb
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.Domain\obj\Debug\netstandard2.0\PUC.LDSI.Domain.csprojAssemblyReference.cache
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.Domain\obj\Debug\netstandard2.0\PUC.LDSI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.Domain\obj\Debug\netstandard2.0\PUC.LDSI.Domain.AssemblyInfoInputs.cache
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.Domain\obj\Debug\netstandard2.0\PUC.LDSI.Domain.AssemblyInfo.cs
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.Domain\obj\Debug\netstandard2.0\PUC.LDSI.Domain.dll
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.Domain\obj\Debug\netstandard2.0\PUC.LDSI.Domain.pdb

@@ -3103,27 +3103,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Carlos\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\Yasmim Sancha\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_CARLOS\\_PUC_Leila\\2020\\ProjetoMVC\\1-projeto-base\\PUC.LDSI.Application\\PUC.LDSI.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Yasmim Sancha\\source\\repos\\1-projeto-base\\PUC.LDSI.Application\\PUC.LDSI.Application.csproj",
       "projectName": "PUC.LDSI.Application",
-      "projectPath": "D:\\_CARLOS\\_PUC_Leila\\2020\\ProjetoMVC\\1-projeto-base\\PUC.LDSI.Application\\PUC.LDSI.Application.csproj",
-      "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-      "outputPath": "D:\\_CARLOS\\_PUC_Leila\\2020\\ProjetoMVC\\1-projeto-base\\PUC.LDSI.Application\\obj\\",
+      "projectPath": "C:\\Users\\Yasmim Sancha\\source\\repos\\1-projeto-base\\PUC.LDSI.Application\\PUC.LDSI.Application.csproj",
+      "packagesPath": "C:\\Users\\Yasmim Sancha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Yasmim Sancha\\source\\repos\\1-projeto-base\\PUC.LDSI.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Yasmim Sancha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -3135,11 +3132,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\_CARLOS\\_PUC_Leila\\2020\\ProjetoMVC\\1-projeto-base\\PUC.LDSI.DataBase\\PUC.LDSI.DataBase.csproj": {
-              "projectPath": "D:\\_CARLOS\\_PUC_Leila\\2020\\ProjetoMVC\\1-projeto-base\\PUC.LDSI.DataBase\\PUC.LDSI.DataBase.csproj"
+            "C:\\Users\\Yasmim Sancha\\source\\repos\\1-projeto-base\\PUC.LDSI.DataBase\\PUC.LDSI.DataBase.csproj": {
+              "projectPath": "C:\\Users\\Yasmim Sancha\\source\\repos\\1-projeto-base\\PUC.LDSI.DataBase\\PUC.LDSI.DataBase.csproj"
             },
-            "D:\\_CARLOS\\_PUC_Leila\\2020\\ProjetoMVC\\1-projeto-base\\PUC.LDSI.Domain\\PUC.LDSI.Domain.csproj": {
-              "projectPath": "D:\\_CARLOS\\_PUC_Leila\\2020\\ProjetoMVC\\1-projeto-base\\PUC.LDSI.Domain\\PUC.LDSI.Domain.csproj"
+            "C:\\Users\\Yasmim Sancha\\source\\repos\\1-projeto-base\\PUC.LDSI.Domain\\PUC.LDSI.Domain.csproj": {
+              "projectPath": "C:\\Users\\Yasmim Sancha\\source\\repos\\1-projeto-base\\PUC.LDSI.Domain\\PUC.LDSI.Domain.csproj"
             }
           }
         }

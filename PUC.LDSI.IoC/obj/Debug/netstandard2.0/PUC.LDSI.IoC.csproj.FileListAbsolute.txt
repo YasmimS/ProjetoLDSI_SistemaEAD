@@ -14,3 +14,19 @@ D:\_CARLOS\_PUC_Leila\2020\ProjetoMVC\1-projeto-base\PUC.LDSI.IoC\obj\Debug\nets
 D:\_CARLOS\_PUC_Leila\2020\ProjetoMVC\1-projeto-base\PUC.LDSI.IoC\obj\Debug\netstandard2.0\PUC.LDSI.IoC.csproj.CopyComplete
 D:\_CARLOS\_PUC_Leila\2020\ProjetoMVC\1-projeto-base\PUC.LDSI.IoC\obj\Debug\netstandard2.0\PUC.LDSI.IoC.dll
 D:\_CARLOS\_PUC_Leila\2020\ProjetoMVC\1-projeto-base\PUC.LDSI.IoC\obj\Debug\netstandard2.0\PUC.LDSI.IoC.pdb
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.IoC\bin\Debug\netstandard2.0\PUC.LDSI.IoC.deps.json
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.IoC\bin\Debug\netstandard2.0\PUC.LDSI.IoC.dll
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.IoC\bin\Debug\netstandard2.0\PUC.LDSI.IoC.pdb
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.IoC\bin\Debug\netstandard2.0\PUC.LDSI.Application.dll
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.IoC\bin\Debug\netstandard2.0\PUC.LDSI.DataBase.dll
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.IoC\bin\Debug\netstandard2.0\PUC.LDSI.Domain.dll
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.IoC\bin\Debug\netstandard2.0\PUC.LDSI.Application.pdb
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.IoC\bin\Debug\netstandard2.0\PUC.LDSI.Domain.pdb
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.IoC\bin\Debug\netstandard2.0\PUC.LDSI.DataBase.pdb
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.IoC\obj\Debug\netstandard2.0\PUC.LDSI.IoC.csprojAssemblyReference.cache
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.IoC\obj\Debug\netstandard2.0\PUC.LDSI.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.IoC\obj\Debug\netstandard2.0\PUC.LDSI.IoC.AssemblyInfoInputs.cache
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.IoC\obj\Debug\netstandard2.0\PUC.LDSI.IoC.AssemblyInfo.cs
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.IoC\obj\Debug\netstandard2.0\PUC.LDSI.IoC.csproj.CopyComplete
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.IoC\obj\Debug\netstandard2.0\PUC.LDSI.IoC.dll
+C:\Users\Yasmim Sancha\source\repos\1-projeto-base\PUC.LDSI.IoC\obj\Debug\netstandard2.0\PUC.LDSI.IoC.pdb
